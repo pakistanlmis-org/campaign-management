@@ -13,7 +13,7 @@ Support is always handy support@lmis.gov.pk
 Supplementary immunization activities (SIAs), also referred to as campaigns, are used for delivering vaccination to children missed by routine immunization services. The Campaigns module covers complete life cycle of campaign starting from estimation of vaccine, target population, vaccine delivery, preparatory meetings schedule and daily coverage. It is one of the core modules of vLMIS launched in Pakistan in Jan 2014 for effective vaccine management. This module provide comprehensive reports on various aspects of the campaign including catch up children, Missed Children, low and High performing UCs and LQAS assessments etc.  <br>
 <img src='https://github.com/pakistanlmis/campaign-management/blob/master/public/images/campaign.png' width='300'>
 
-# Configuration details# vlmis-all-modules
+# Configuration details
 
 For database configuration. Change below lines in application/configs/application.ini
 
